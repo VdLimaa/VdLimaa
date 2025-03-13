@@ -1,3 +1,3 @@
-Hi, my name is Vinicius and I'm in the first semester studying Software Analysis and Development at Santa Cecília University.
-I'm interessed in become a Full-Stack developer.
-I'm currently learning in the college the language C#, but i'm also studying JavaScript by my own.
+Desenvolvedor em formação, no terceiro semestre de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília, em Santos/SP, e atuando como estagiário de T.I. Experiência com HTML, CSS, JavaScript, C# e WordPress, buscando me tornar full stack.
+
+Aspiring developer in the third semester of Systems Analysis and Development at Universidade Santa Cecília, in Santos/SP, working as an IT intern. Experience with HTML, CSS, JavaScript, C#, and WordPress, aiming to become full stack.
