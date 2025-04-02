@@ -29,13 +29,13 @@
 ## Connect with me:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-teixeira-de-lima/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-teixeira-de-lima/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </a>
-  <a href="https://www.instagram.com/tvinil_/">
+  <a href="https://www.instagram.com/tvinil_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.YOURPORTFOLIO.com/">
+  <a href="https://www.YOURPORTFOLIO.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </div>
