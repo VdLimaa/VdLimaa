@@ -1,7 +1,7 @@
 <h1 align="center">Hello, My name is Vinicius! 👋</h1>
 
 <p align="center">
- <img src="https://64.media.tumblr.com/33f6bfc51c36ea973408fb7925e07161/tumblr_n69edcTf681s7se2bo1_500.gif" width="250px">
+ <img src="![Image](https://github.com/user-attachments/assets/a234cbd0-6bff-4724-baa8-24b2da3ea6d2)" width="250px">
 </p>
 
 ## About Me:
