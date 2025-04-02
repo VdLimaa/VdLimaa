@@ -4,6 +4,14 @@
  <img src="https://64.media.tumblr.com/33f6bfc51c36ea973408fb7925e07161/tumblr_n69edcTf681s7se2bo1_500.gif" width="250px">
 </p>
 
+## About Me:
+
+- 🎓 Studying Systems Analysis and Development at Universidade Santa Cecília, currently studying/working at JL Marine.  
+- 🚀 Passionate about Web Development and Design.  
+- 🌱 Currently learning React.  
+- 💡 I love solving problems and building cool projects.  
+- 🎮 In my free time, I enjoy play games and design some clothes.  
+
 ## Technologies I work with:
 
 <div align="center">
