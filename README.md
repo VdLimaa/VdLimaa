@@ -4,8 +4,6 @@
  <img src="https://64.media.tumblr.com/33f6bfc51c36ea973408fb7925e07161/tumblr_n69edcTf681s7se2bo1_500.gif" width="250px">
 </p>
 
----
-
 ## Technologies I work with:
 
 <div align="center">
@@ -19,7 +17,6 @@
   <img src="https://img.shields.io/badge/Pacote_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>
 
----
 
 ## Connect with me:
 
@@ -36,11 +33,11 @@
 </div>
 
 
-## 📊 Stats:
+## Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VdLimaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VdLimaa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
