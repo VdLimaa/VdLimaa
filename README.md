@@ -1,12 +1,12 @@
-<h1 align="center">Olá, eu sou [Seu Nome]! 👋</h1>
+<h1 align="center">Hello, My name is Vinicius! 👋</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://aeveis.tumblr.com/post/87571974079/quick-3d-porygon#)" width="250px">
+ <img src="https://64.media.tumblr.com/33f6bfc51c36ea973408fb7925e07161/tumblr_n69edcTf681s7se2bo1_500.gif" width="250px">
 </p>
 
 ---
 
-## 🚀 Tecnologias que eu domino:
+## Technologies I work with:
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🌎 Minhas redes sociais:
+## Connect with me:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vinicius-teixeira-de-limao/)
 - 📷 [Instagram](https://www.instagram.com/tvinil/)
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 Meus Stats no GitHub:
+## 📊 Stats:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VdLimaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -38,7 +38,7 @@
 
 ---
 
-💡 *"Sempre aprendendo!"* 🚀
+ *"Expanding the brain"* 
 
 
 <picture>
