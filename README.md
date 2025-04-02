@@ -5,11 +5,11 @@
 </p>
 
 ## About Me:
-- 🎓 Studying Systems Analysis and Development at Universidade Santa Cecília, currently studying/working at JL Marine.  
+- 🎓 Studying Systems Analysis and Development at Universidade Santa Cecília, currently studying/working at JL Marine Serviços Logísticos e Comex.  
 - 🚀 Passionate about Web Development and Design.  
 - 🌱 Currently learning React.  
 - 💡 I love solving problems and building cool projects.  
-- 🎮 In my free time, I enjoy playing games and designing some clothes.  
+- 🎮 In my free time, I enjoy playing games and designing clothes.  
 
 ## 🚀 Technologies I work with:
 
