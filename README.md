@@ -1,11 +1,10 @@
 <h1 align="center">Hello, My name is Vinicius! 👋</h1>
 
 <p align="center">
- <img src="![Image](https://github.com/user-attachments/assets/a234cbd0-6bff-4724-baa8-24b2da3ea6d2)" width="250px">
+<img src="https://github.com/VdLimaa/VdLimaa/blob/main/Animao-ezgif.com-gif-maker.gif?raw=true" width="250px">
 </p>
 
 ## About Me:
-
 - 🎓 Studying Systems Analysis and Development at Universidade Santa Cecília, currently studying/working at JL Marine.  
 - 🚀 Passionate about Web Development and Design.  
 - 🌱 Currently learning React.  
