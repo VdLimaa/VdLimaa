@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou [Seu Nome]! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250px">
+  <img src="[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://aeveis.tumblr.com/post/87571974079/quick-3d-porygon#)" width="250px">
 </p>
 
 ---
@@ -23,8 +23,8 @@
 
 ## 🌎 Minhas redes sociais:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- 📷 [Instagram](https://www.instagram.com/seu-usuario/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vinicius-teixeira-de-limao/)
+- 📷 [Instagram](https://www.instagram.com/tvinil/)
 - 🌐 [Meu Portfólio](https://www.seuportfolio.com/)
 
 ---
@@ -32,13 +32,13 @@
 ## 📊 Meus Stats no GitHub:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VdLimaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VdLimaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
-💡 *"Sempre aprendendo e construindo coisas incríveis!"* 🚀
+💡 *"Sempre aprendendo!"* 🚀
 
 
 <picture>
