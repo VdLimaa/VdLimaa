@@ -9,7 +9,7 @@
 - 🚀 Passionate about Web Development and Design.  
 - 🌱 Currently learning React.  
 - 💡 I love solving problems and building cool projects.  
-- 🎮 In my free time, I enjoy playing games and designing clothes.  
+- 🎮 In my free time, I enjoy playing games.  
 
 ## 🚀 Technologies I work with:
 
